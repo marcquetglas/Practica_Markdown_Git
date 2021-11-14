@@ -11,6 +11,7 @@ Per fer text en negreta l'escrivim entre(**)
 **negreta**
 
 Per fer text en negreta i cursiva l'escrivim entre (***)
+
 ***Text en cursiva i negreta***
 
 Si volem escriure un text ratllat l'escrivim entre (~~)
@@ -18,3 +19,4 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 ~~Aquest text esta ratllat~~
 
 Per ficar títols podem emplear 
+
