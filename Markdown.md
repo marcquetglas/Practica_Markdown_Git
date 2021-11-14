@@ -12,6 +12,16 @@ Per començar, per ficar títols de distints tamanys podem emplear (#), quantes 
 
 ##### Hola Món
 
+També podem ficar un text seguit de (=) i (-)
+
+Hola Món
+
+=
+
+Hola Món
+
+-
+
 Els tipus de lletra que podem emplear són:
 
 En Markdown per fer una cursiva escrivim el text entre (*)
@@ -30,10 +40,7 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 
 ~~Aquest text esta ratllat~~
 
-titulo1
-=
-titulo2
--
+
 
 
 
