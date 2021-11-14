@@ -1,6 +1,18 @@
 En aquest document veurem una guia bàsica per aprendre a fer Markdown
 
-Començarem pels tipus de lletra que podem emplear:
+Per començar, per ficar títols de distints tamanys podem emplear (#), quantes més possis davant un text, més petit serà (fins un límit de 5):
+
+# Hola Món
+
+## Hola Món
+
+### Hola Món
+
+#### Hola Món
+
+##### Hola Món
+
+Els tipus de lletra que podem emplear són:
 
 En Markdown per fer una cursiva escrivim el text entre (*)
 
@@ -18,15 +30,10 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 
 ~~Aquest text esta ratllat~~
 
-Per ficar títols de distints tamanys podem emplear (#), quantes més possis davant un text, més petit serà (fins un límit de 5):
+titulo1
+=
+titulo2
+-
 
-# Hola Món
 
-## Hola Món
-
-### Hola Món
-
-#### Hola Món
-
-##### Hola Món
 
