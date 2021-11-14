@@ -77,9 +77,8 @@ Si volem introduir un bloc sencer de codi, podem possar tres accents en comença
 Aquí comença el codi.
     Aquí segueix el codi pero més tabulat.
 Aquí segueix el codi.
-
 ```
-```html
+```js
 Aquí comença el codi.
     Aquí segueix el codi pero més tabulat.
 Aquí segueix el codi.
