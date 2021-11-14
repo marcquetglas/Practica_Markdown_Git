@@ -59,8 +59,11 @@ Si volem que estigui ordenada simplement hem de possar un número seguit d'un pu
 2. Element 2
 3. Element 3
 
+També podem crear llistes amb caselles marcables mitjançant ([ ] text). Si entre [] possem una "X" marcarà la casella
+
 + [x] A
 + [ ] B
++ [x] C
 
 
 
