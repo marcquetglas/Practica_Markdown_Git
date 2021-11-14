@@ -71,20 +71,18 @@ Per marcar que una línia és codi la possem entre (``), si el text té qualcún
 
 ``tot això és `codi` ``
 
-Si volem introduir un bloc sencer de codi, podem emplear tabulacións
-
-Aquí introduim el codi.
-    Aquí comença el codi.
-        Aquí segueix el codi pero més tabulat.
-    Aquí segueix el codi.
-Aquí torna a haver text.
+Si volem introduir un bloc sencer de codi, podem possar tres accents en començar i acabar (```)
 
 ```
-Aquí introduim el codi.
-    Aquí comença el codi.
-        Aquí segueix el codi pero més tabulat.
-    Aquí segueix el codi.
-Aquí torna a haver text.
+Aquí comença el codi.
+    Aquí segueix el codi pero més tabulat.
+Aquí segueix el codi.
+
+```
+```html
+Aquí comença el codi.
+    Aquí segueix el codi pero més tabulat.
+Aquí segueix el codi.
 ```
 
 
