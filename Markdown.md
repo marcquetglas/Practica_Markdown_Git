@@ -78,6 +78,9 @@ Aquí comença el codi.
     Aquí segueix el codi pero més tabulat.
 Aquí segueix el codi.
 ```
+
+Inclús podem indicar el llenguatge que empleem al principi i Markdown aplicarà els colors predefints d'aquest
+
 ```js
 Aquí comença el codi.
     Aquí segueix el codi pero més tabulat.
