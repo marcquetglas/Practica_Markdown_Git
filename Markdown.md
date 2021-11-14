@@ -91,8 +91,16 @@ Per introduir un link empleem el format `[Nom](https://exemple.com/)`. En aquest
 
 [Twitch](https://www.twitch.tv/  "link a twitch" )
 
+Si vols que es vegi la direcció, pots introduir l'URL directament entre (<>)
+
 <https://www.twitch.tv/>
-`https://www.twitch.tv/`
+
+També podem afegit Hipérvincles mitjançant imatges amb el format:
+
+![titol de la imatge](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5d9208eb5cafe81a0f3c986a/delfin0_0.jpg)
+
+
+
 
 
 
