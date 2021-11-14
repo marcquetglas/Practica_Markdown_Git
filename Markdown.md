@@ -69,10 +69,14 @@ Per marcar que una línia és codi la possem entre (``), si el text té qualcún
 
 `Això és codi`
 
-``Això és codi`` 
+``tot això és `codi` ``
 
-``todo esto es `codigo`.``
+Si volem introduir un bloc sencer de codi, podem emplear tabulacións
 
-
+Aquí introduim el codi
+    Aquí comença el codi
+        Aquí segueix el codi pero més tabulat
+    Aquí segueix el codi
+Aquí torna a haver text
 
 
