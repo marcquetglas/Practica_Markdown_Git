@@ -89,6 +89,6 @@ Aquí segueix el codi.
 
 Per introduir un link empleem el format `[Link](https://exemple.com/ "títol opcional")`
 
-[Link](https://www.twitch.tv/  "link a twitch" )
+[Twitch](https://www.twitch.tv/  "link a twitch" )
 
 
