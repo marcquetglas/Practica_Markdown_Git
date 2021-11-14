@@ -87,8 +87,13 @@ Aquí comença el codi.
 Aquí segueix el codi.
 ```
 
-Per introduir un link empleem el format `[Link](https://exemple.com/ "títol opcional")`
+Per introduir un link empleem el format `[Nom](https://exemple.com/)`. En aquest cas em anat a twitch.tv
 
 [Twitch](https://www.twitch.tv/  "link a twitch" )
+
+<https://www.twitch.tv/>
+`https://www.twitch.tv/`
+
+
 
 
