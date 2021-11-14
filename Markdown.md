@@ -15,11 +15,8 @@ Per començar, per ficar títols de distints tamanys podem emplear (#), quantes 
 També podem ficar un text seguit de (=) i (-)
 
 Hola Món
-
 =
-
 Hola Món
-
 -
 
 Els tipus de lletra que podem emplear són:
