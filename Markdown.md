@@ -12,7 +12,7 @@ Per començar, per ficar títols de distints tamanys podem emplear (#), quantes 
 
 ##### Hola Món
 
-També podem ficar un text seguit de (=) i (-)
+També podem ficar un text seguit de (=) i (-) 
 
 Hola Món
 =
@@ -37,7 +37,15 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 
 ~~Aquest text esta ratllat~~
 
+Per ficar text en format de cita, podem emplear (>) abans del text per fer sangria
 
+>Aquest fragment esta **sangrat**
+>continua
+
+>Aquest es un altre fragment **sangrat**
+Ara continuem a la linea
+
+Ja no feiem sangria
 
 
 
