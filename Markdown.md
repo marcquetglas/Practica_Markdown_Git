@@ -47,19 +47,11 @@ Per ficar text en format de cita, podem emplear (>) abans del text per fer sangr
 
 Com no comença amb (>) xapem la cita
 
-Per crear una llista podem emplear tant el signe més (+), guions (-) com asteriscs (*)
+Per crear una llista podem emplear tant el signe més (+), guions (-) com asteriscs (*) (el resultat serà el mateix)
 
 + Element 
 + Element 2
 + Element 3
-
-- Element 
-- Element 2
-- Element 3
-
-* Element
-* Element 2
-* Element 3
 
 Si volem que estigui ordenada simplement hem de possar un número seguit d'un punt (x.)
 
@@ -67,6 +59,8 @@ Si volem que estigui ordenada simplement hem de possar un número seguit d'un pu
 2. Element 2
 3. Element 3
 
+[ ] A
+[ ] B
 
 
 
