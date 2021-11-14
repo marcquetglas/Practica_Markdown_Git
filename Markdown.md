@@ -41,11 +41,33 @@ Per ficar text en format de cita, podem emplear (>) abans del text per fer sangr
 
 >Aquest fragment és una ***cita***
 
->//com també comença amb (>) continua 
+> // com també comença amb (>) continua 
 
 >Aquesta és un altre ***cita***
 
 Com no comença amb (>) xapem la cita
+
+Per crear una llista podem emplear tant el signe més (+), guions (-) com asteriscs (*)
+
++ Element 
++ Element 2
++ Element 3
+
+- Element 
+- Element 2
+- Element 3
+
+* Element
+* Element 2
+* Element 3
+
+Si volem que estigui ordenada simplement hem de possar un número seguit d'un punt (x.)
+
+1. Element 
+2. Element 2
+3. Element 3
+
+
 
 
 
