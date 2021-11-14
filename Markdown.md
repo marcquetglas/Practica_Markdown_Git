@@ -101,7 +101,7 @@ Si vols que es vegi la direcció, pots introduir l'URL directament entre (<>)
 
 També podem afegir imatges mitjançant el format:  
 
- (![Descripció](URL imatge))   
+**(![Descripció](URL imatge))**
 
 
 ![Descripció](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5d9208eb5cafe81a0f3c986a/delfin0_0.jpg)  
@@ -109,7 +109,7 @@ També podem afegir imatges mitjançant el format:
 
 Inclús podem combinar imatges amb hipérvincles de manera que clickant damunt la imatge ens dugui al vincle indicat empleant el format:  
 
-[![Descripció](URL imatge)](URL web)
+**[![Descripció](URL imatge)](URL web)**
 
 
 [![Descripció](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5d9208eb5cafe81a0f3c986a/delfin0_0.jpg)](https://www.salvemosalosdelfines.org/)
