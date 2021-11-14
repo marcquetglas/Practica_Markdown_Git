@@ -59,8 +59,8 @@ Si volem que estigui ordenada simplement hem de possar un número seguit d'un pu
 2. Element 2
 3. Element 3
 
-[x] A
-[ ] B
++ [x] A
++ [ ] B
 
 
 
