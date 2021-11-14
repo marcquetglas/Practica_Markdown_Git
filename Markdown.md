@@ -71,7 +71,7 @@ Per marcar que una línia és codi la possem entre (``), si el text té qualcún
 
 ``Això és codi`` 
 
-
+``todo esto es `codigo`.``
 
 
 
