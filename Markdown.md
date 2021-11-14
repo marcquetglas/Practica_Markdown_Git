@@ -39,13 +39,13 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 
 Per ficar text en format de cita, podem emplear (>) abans del text per fer sangria
 
->Aquest fragment esta **sangrat**
->continua
+>Aquest fragment és una ***cita***
+>//com també comença amb (>) continua 
 
->Aquest es un altre fragment **sangrat**
-Ara continuem a la linea
+>Aquesta és un altre ***cita***
+Com no comença amb (>) xapem la cita
 
-Ja no feiem sangria
+
 
 
 
