@@ -18,5 +18,10 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 
 ~~Aquest text esta ratllat~~
 
-Per ficar títols podem emplear 
+Per ficar títols de distints tamanys podem emplear (#), quantes més possis davant un text, més petit serà:
+
+#Hola Món
+
+##Hola Món
+
 
