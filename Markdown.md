@@ -87,6 +87,8 @@ Aquí comença el codi.
 Aquí segueix el codi.
 ```
 
+Per introduir un link 
 
+[Link](https://www.twitch.tv/ "link a twitch")
 
 
