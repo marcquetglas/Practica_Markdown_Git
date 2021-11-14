@@ -65,6 +65,12 @@ També podem crear llistes amb caselles marcables mitjançant ([ ] text). Si ent
 + [ ] B
 + [x] C
 
+Per marcar que una línia és codi la possem entre (``), si el text té qualcún caracter amb aquest accent, en podem possar dos per ignorar-lo
+
+`Això és codi`
+
+``Això és codi`` 
+
 
 
 
