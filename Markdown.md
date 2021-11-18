@@ -1,4 +1,4 @@
-En aquest document veurem una guia bàsica per aprendre a fer Markdown
+##En aquest document veurem una guia bàsica per aprendre a fer Markdown
 
 Per començar, per ficar títols de distints tamanys podem emplear (#), quantes més possis davant un text, més petit serà (fins un límit de 5):
 
