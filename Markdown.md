@@ -1,11 +1,9 @@
 ## ***Guia Introductoria al Markdown***
 
 </br>
-</br>
 
 ### En aquesta guia bàsica veurem una introducció per poder crear documents en Markdown simples. Markdown és un editor de text lleuger i molt fàcil d'emplear que et permetrà crear documents clars i ordenats. Anem a veure quines són les principals eines que ens proporciona Md per crear documents:
 
-</br>
 </br>
 
 ### Per començar, per insertar títols de distints tamanys empleem (#), quantes més possis davant un text, més petit serà: 
