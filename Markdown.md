@@ -2,11 +2,13 @@
 
 </br>
 
-### En aquesta guia bàsica veurem una introducció per poder crear documents en Markdown simples. Markdown és un editor de text lleuger i molt fàcil d'emplear que et permetrà crear documents clars i ordenats. Anem a veure quines són les principals eines que ens proporciona Md per crear documents:
+## En aquesta guia bàsica veurem una introducció per poder crear documents en Markdown simples. Markdown és un editor de text lleuger i molt fàcil d'emplear que et permetrà crear documents clars i ordenats. Anem a veure quines són les principals eines que ens proporciona Md per crear documents:
 
 </br>
 
 ### Per començar, per insertar títols de distints tamanys empleem (#), quantes més possis davant un text, més petit serà: 
+
+</br>
 
 # Hola Món
 
@@ -41,13 +43,19 @@ En Markdown per fer una cursiva escrivim el text entre (*)
 
 *cursiva* 
 
+</br>
+
 Per fer text en negreta l'escrivim entre(**)
 
 **negreta**
 
+</br>
+
 Per fer text en negreta i cursiva l'escrivim entre (***)
 
 ***Text en cursiva i negreta***
+
+</br>
 
 Si volem escriure un text ratllat l'escrivim entre (~~)
 
