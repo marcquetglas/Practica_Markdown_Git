@@ -1,8 +1,8 @@
-## **Guia Introductoria al Markdown**
+## ***Guia Introductoria al Markdown***
 
-# En aquesta guia veuràs una guia bàsica introductoria per poder crear documents en Markdown
+### En aquesta guia veuràs una guia bàsica introductoria per poder crear documents en Markdown
 
-Per començar, per insertar títols de distints tamanys empleem (#), quantes més possis davant un text, més petit serà (fins un límit de 5):
+**Per començar, per insertar títols de distints tamanys empleem (#), quantes més possis davant un text, més petit serà (fins un límit de 5)**:
 
 # Hola Món
 
@@ -14,14 +14,14 @@ Per començar, per insertar títols de distints tamanys empleem (#), quantes mé
 
 ##### Hola Món
 
-Markdown també ens dona la possibilitat de ficar un text seguit de (=) i (-) per crear els títols:
+### Markdown també ens dona la possibilitat de ficar un text seguit de (=) i (-) per crear els títols:
 
 Hola Món
 =
 Hola Món
 -
 
-Els tipus de lletra que podem emplear són:
+### Com a editor de text, podem modificar el tipus de lletra molt fàcilment. Els tipus de lletra que podem emplear són:
 
 En Markdown per fer una cursiva escrivim el text entre (*)
 
