@@ -5,6 +5,8 @@
 
 ### En aquesta guia veuràs una guia bàsica introductoria per poder crear documents en Markdown
 
+</br>
+
 **Per començar, per insertar títols de distints tamanys empleem (#), quantes més possis davant un text, més petit serà **:
 
 # Hola Món
@@ -22,12 +24,19 @@
 
 ### Markdown també ens dona la possibilitat de ficar un text seguit de (=) i (-) per crear els títols:
 
+</br>
+
 Hola Món
 =
 Hola Món
 -
 
+</br>
+</br>
+
 ### Com a editor de text, podem modificar el tipus de lletra molt fàcilment. Els tipus de lletra que podem emplear són:
+
+</br>
 
 En Markdown per fer una cursiva escrivim el text entre (*)
 
@@ -45,7 +54,12 @@ Si volem escriure un text ratllat l'escrivim entre (~~)
 
 ~~Aquest text esta ratllat~~
 
-Per ficar text en format de cita, podem emplear (>) abans del text per fer sangria
+</br>
+</br>
+
+### Per crear text en format de cita, hem d'emplear (>) abans del text per fer sangria
+
+</br>
 
 >Aquest fragment és una ***cita***
 
@@ -55,7 +69,12 @@ Per ficar text en format de cita, podem emplear (>) abans del text per fer sangr
 
 Com no comença amb (>) xapem la cita
 
-Per crear una llista podem emplear tant el signe més (+), guions (-) com asteriscs (*) (el resultat serà el mateix)
+</br>
+</br>
+
+### Per crear una llista podem emplear tant el signe més (+), guions (-) com asteriscs (*) (el resultat serà el mateix)
+
+</br>
 
 + Element 
 + Element 2
@@ -73,7 +92,12 @@ També podem crear llistes amb caselles marcables mitjançant ([ ] text). Si ent
 + [ ] B
 + [x] C
 
-Per marcar que una línia és codi la possem entre (``), si el text té qualcún caracter amb aquest accent, en podem possar dos per ignorar-lo
+</br>
+</br>
+
+### Per introduir una línia de codi la possem entre (``), si el text té qualcún caracter amb aquest accent, en podem possar dos per ignorar-lo:
+
+</br>
 
 `Això és codi`
 
@@ -94,6 +118,13 @@ Aquí comença el codi.
     Aquí segueix el codi pero més tabulat.
 Aquí segueix el codi.
 ```
+
+</br>
+</br>
+
+### Com podem crear hipervincles o imatges enllaçades a aquestos? Anem-ho a veure:
+
+</br>
 
 Per introduir un link empleem el format `[Nom](https://exemple.com/)`. En aquest cas em anat a twitch.tv
 
@@ -122,6 +153,9 @@ Inclús podem combinar imatges amb hipérvincles de manera que clickant damunt l
 
 [![Descripció](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5d9208eb5cafe81a0f3c986a/delfin0_0.jpg)](https://www.salvemosalosdelfines.org/)
 
+
+</br>
+</br>
 
 
 
