@@ -1,6 +1,7 @@
 ## ***Guia Introductoria al Markdown***
 
-
+</br>
+</br>
 
 ### En aquesta guia veuràs una guia bàsica introductoria per poder crear documents en Markdown
 
@@ -16,6 +17,7 @@
 
 ##### Hola Món
 
+</br>
 </br>
 
 ### Markdown també ens dona la possibilitat de ficar un text seguit de (=) i (-) per crear els títols:
