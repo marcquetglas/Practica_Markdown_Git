@@ -128,12 +128,11 @@ Aquí segueix el codi.
 
 Per introduir un link empleem el format `[Nom](https://exemple.com/)`. En aquest cas em anat a twitch.tv
 
-
 [Twitch](https://www.twitch.tv/  "link a twitch" )
 
+</br>
 
 Si vols que es vegi la direcció, pots introduir l'URL directament entre (<>)
-
 
 <https://www.twitch.tv/>
 
@@ -142,14 +141,18 @@ També podem afegir imatges mitjançant el format:
 
 **(![Descripció](URL imatge))**
 
+</br>
 
 ![Descripció](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5d9208eb5cafe81a0f3c986a/delfin0_0.jpg)  
+
+</br>
 
 
 Inclús podem combinar imatges amb hipérvincles de manera que clickant damunt la imatge ens dugui al vincle indicat empleant el format:  
 
 **[![Descripció](URL imatge)](URL web)**
 
+</br>
 
 [![Descripció](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5d9208eb5cafe81a0f3c986a/delfin0_0.jpg)](https://www.salvemosalosdelfines.org/)
 
