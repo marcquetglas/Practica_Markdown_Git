@@ -1,6 +1,8 @@
-##En aquest document veurem una guia bàsica per aprendre a fer Markdown
+## **Guia Introductoria al Markdown**
 
-Per començar, per ficar títols de distints tamanys podem emplear (#), quantes més possis davant un text, més petit serà (fins un límit de 5):
+# En aquesta guia veuràs una guia bàsica introductoria per poder crear documents en Markdown
+
+Per començar, per insertar títols de distints tamanys empleem (#), quantes més possis davant un text, més petit serà (fins un límit de 5):
 
 # Hola Món
 
@@ -12,7 +14,7 @@ Per començar, per ficar títols de distints tamanys podem emplear (#), quantes 
 
 ##### Hola Món
 
-També podem ficar un text seguit de (=) i (-) 
+Markdown també ens dona la possibilitat de ficar un text seguit de (=) i (-) per crear els títols:
 
 Hola Món
 =
