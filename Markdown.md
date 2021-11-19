@@ -160,8 +160,15 @@ Inclús podem combinar imatges amb hipérvincles de manera que clickant damunt l
 </br>
 </br>
 
+### Per acabar cal comentar que Markdown té un mode per no interpretar varis signes com ara l'asterisc o el guió, i és possar abans una barra invertida:
 
+Aqui posem el signe sense barra 
 
+*fall
+
+Aquí amb la barra:
+
+\*fall
 
 
 
