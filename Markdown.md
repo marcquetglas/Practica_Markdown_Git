@@ -87,11 +87,15 @@ Com no comença amb (>) xapem la cita
 + Element 2
 + Element 3
 
+</br>
+
 Si volem que estigui ordenada simplement hem de possar un número seguit d'un punt (x.)
 
 1. Element 
 2. Element 2
 3. Element 3
+
+</br>
 
 També podem crear llistes amb caselles marcables mitjançant ([ ] text). Si entre [] possem una "X" marcarà la casella
 
@@ -110,6 +114,8 @@ També podem crear llistes amb caselles marcables mitjançant ([ ] text). Si ent
 
 ``tot això és `codi` ``
 
+</br>
+
 Si volem introduir un bloc sencer de codi, podem possar tres accents en començar i acabar (```)
 
 ```
@@ -117,6 +123,7 @@ Aquí comença el codi.
     Aquí segueix el codi pero més tabulat.
 Aquí segueix el codi.
 ```
+</br>
 
 Inclús podem indicar el llenguatge que empleem al principi i Markdown aplicarà els colors predefints d'aquest
 
@@ -143,6 +150,7 @@ Si vols que es vegi la direcció, pots introduir l'URL directament entre (<>)
 
 <https://www.twitch.tv/>
 
+</br>
 
 També podem afegir imatges mitjançant el format:  
 
@@ -187,6 +195,8 @@ Aquí amb la barra:
 </br>
 
 ## Marc Quetglas 
+
+</br>
 
 
 

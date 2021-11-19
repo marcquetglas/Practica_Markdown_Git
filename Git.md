@@ -50,7 +50,7 @@ Podem emplear aquesta comanda per veure la configuració actual.
 
 En el cas de que la autentificació del teu repositori es faci per http, llançant aquestes comandes i aceptant un popup a github on et demana la contrasenya del teu compte, ja estaràs autenticat i podràs pujar i baixar informació lliurement.
 
-En el cas de que l'autentificació es dugui a terme per ssh, hauràs de crear una clau pública i un altre privada i introduir la pública a l'apartat keys del teu compte de GitHub.
+En el cas de que l'autentificació es dugui a terme per ssh, hauràs de crear una clau pública i un altre privada i introduir la pública a l'apartat keys del teu compte de GitHub. També hi ha que tenir en compte que a l'hora de clonar el repositori ho hauràs de fer desde l'apartat ssh
 
 </br>
 
