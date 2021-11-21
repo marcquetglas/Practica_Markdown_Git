@@ -54,8 +54,15 @@ En el cas de que l'autentificació es dugui a terme per ssh, hauràs de crear un
 
 </br>
 
-Una vegada tenguem tot preparat, podem començar a treballar. Hi ha dues opcions, o bé crear un repositori local i pujarlo al GitHub, o bé copiar un repositori de GitHub i clonar-lo en local per fer feina sobre ell.
+Una vegada tenguem tot preparat, podem començar a treballar. Hi ha dues opcions, o bé crear un repositori local i pujarlo al GitHub, o bé copiar un repositori de GitHub i clonar-lo en local per fer feina sobre ell. 
 
 </br>
 
 ### Com creem un repositori local per treballar sobre ell
+
+</br>
+
+1* Creem un nou repositori local amb la comanda `git init`
+2* Mitjançant les comandes `git add` i `git commit` el configurem 
+3* Creem un repositori al git hub i mitjançant la comanda `git remote add remot "URL + Nom Usuari + Repositori"`
+4* Empenyem els canvis al repositori remot fent un push
