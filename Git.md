@@ -58,11 +58,42 @@ Una vegada tenguem tot preparat, podem començar a treballar. Hi ha dues opcions
 
 </br>
 
-### Com creem un repositori local per treballar sobre ell
+### Com creem un repositori local i pujarlo a GitHub per treballar sobre ell remotament
 
 </br>
 
 1. Creem un nou repositori local amb la comanda `git init`
-2. Mitjançant les comandes `git add` i `git commit` el configurem 
+2. Mitjançant la comandes `git add` el configurem 
 3. Creem un repositori al git hub i mitjançant la comanda `git remote add remot "URL + Nom Usuari + Repositori"`
 4. Empenyem els canvis al repositori remot fent un push
+
+</br>
+</br>
+
+
+### Com creem un repositori a GitHub i fem una còpia d'ell per treballar en local:
+
+</br>
+
+1. Creem un nou repositori al nostre compte de GitHub
+2. Copiem la direcció d'aquest que ens proporciona GiHub
+3. Mitjançant la comanda `git clone` creem una còpia del repositori en la carpeta local que indiquem
+4. Ja podem treballar en local i pujar els canvis al nostre repo remot :)
+
+</br>
+</br>
+
+### Una vegada hagem fet qualsevòl d'aquests procesos, podrem treballar on volguem i guardar els canvis en els dos mitjançant certes eines que ens proporciona Git. Les mes importants són:
+
+* Commits: Un commit representa un canvi en un rapositori. Quan l'usuari vulgui, pot emprar aquesta eina per guardar els canvis de l'entorn de treball.
+* Push: Una vegada hagem passat els canvis de l'entorn de feina al repositori local, podem emplear un push per guardar tots els canvis en el nostre repositori remot a GitHub.
+* Pull: Si el que ens interessa es copiar les dades fetes al repositori remot en el nostre local, podem fer un pull.
+* Git Branch: Ens permet crear una nova branca de feina. Això ens pot ser molt útil alhora de dividir projectes en varis entorns de feina però en el mateix repositori.
+
+</br>
+
+### I fins aquí arriba la nostre guia introductoria al Git!
+
+</br>
+
+## Marc Quetglas
