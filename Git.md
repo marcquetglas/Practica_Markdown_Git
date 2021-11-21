@@ -62,7 +62,7 @@ Una vegada tenguem tot preparat, podem començar a treballar. Hi ha dues opcions
 
 </br>
 
-1* Creem un nou repositori local amb la comanda `git init`
-2* Mitjançant les comandes `git add` i `git commit` el configurem 
-3* Creem un repositori al git hub i mitjançant la comanda `git remote add remot "URL + Nom Usuari + Repositori"`
-4* Empenyem els canvis al repositori remot fent un push
+1. Creem un nou repositori local amb la comanda `git init`
+2. Mitjançant les comandes `git add` i `git commit` el configurem 
+3. Creem un repositori al git hub i mitjançant la comanda `git remote add remot "URL + Nom Usuari + Repositori"`
+4. Empenyem els canvis al repositori remot fent un push
